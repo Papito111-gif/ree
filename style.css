@@ -1,0 +1,29 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    background:linear-gradient( white, orangered);
+    background-repeat: no-repeat;
+}
+button{
+    cursor: pointer;
+color: black;
+background-color: orangered;
+font-size: 15px;
+}
+#mee{
+    font-size: 60px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: black;
+    text-align: center;
+}
+#see{
+    font-size: 60px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: blueviolet;
+    text-align: center;
+}
+#kee{
+    font-size: 70px;
+    color: blue;
+}
